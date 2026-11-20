@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # BIT 2118 --- Scientific Computing
 
 ### Group Work Repository
